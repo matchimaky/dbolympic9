@@ -1,0 +1,55 @@
+{
+    "country": [
+        {
+            "id": "GRD",
+            "name": "Grenada",
+            "description": "Grenada is known for its beautiful landscapes and achievements in sports such as athletics, particularly in sprinting."
+        },
+        {
+            "id": "MYS",
+            "name": "Malaysia",
+            "description": "Malaysia is known for its diverse cultures and economic growth. It excels in sports like badminton, squash, and field hockey."
+        },
+        {
+            "id": "PUR",
+            "name": "Puerto Rico",
+            "description": "Puerto Rico is known for its vibrant culture and strong performances in sports such as boxing, basketball, and athletics."
+        },
+        {
+            "id": "CIV",
+            "name": "Côte d'Ivoire",
+            "description": "Côte d'Ivoire is known for its rich cultural heritage and strong performances in football and athletics."
+        },
+        {
+            "id": "CPV",
+            "name": "Cabo Verde",
+            "description": "Cabo Verde is recognized for its beautiful landscapes and emerging sports talent. It has competitive performances in athletics and football."
+        },
+        {
+            "id": "ROT",
+            "name": "Refugee Olympic Team",
+            "description": "The Refugee Olympic Team represents athletes who have been forced to flee their home countries. The team competes under the Olympic flag and showcases the resilience and determination of refugees."
+        },
+        {
+            "id": "PER",
+            "name": "Peru",
+            "description": "Peru is known for its rich cultural heritage and historical sites. It has emerging talent in sports such as athletics and swimming."
+        },
+        {
+            "id": "QAT",
+            "name": "Qatar",
+            "description": "Qatar is known for its rapid development and strong investments in sports infrastructure. It excels in athletics, weightlifting, and has a growing presence in various sports."
+        },
+        {
+            "id": "SGP",
+            "name": "Singapore",
+            "description": "Singapore is recognized for its technological advancements and strong performances in sports like table tennis and swimming. The country has a growing sporting culture."
+        },
+        {
+            "id": "SVK",
+            "name": "Slovakia",
+            "description": "Slovakia is known for its achievements in sports such as ice hockey, canoeing, and athletics. The country has a rich sporting tradition and competitive athletes."
+        }
+    ]
+  }
+  
